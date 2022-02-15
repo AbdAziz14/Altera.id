@@ -1,0 +1,6 @@
+Banyak yang bisa dipelajari dari Git ini.
+
+1. Git dapat membantu kerja tim.
+2. Dari sisi kerja tim pun bisa diawasi dengan jalanya git ini (waktu push dan commit)
+3. jikalau ada konflik kita masih bisa tau bagian yang salah dan segera memperbaikinya
+4. Pengaturan / branch sangat membantu dalam mengawasi setiap perubahan
