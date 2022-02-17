@@ -1,0 +1,5 @@
+Resume Materi UI UX
+
+1. Untuk membuat UI yang baik banyak hal yg harus dipikirkan seperti Layout yg konsisten, font yg sesuai , dan juga Penempatan informasi yang jelas dan baik.
+2. Untuk membuat UX juga banyak hal yg harus dipikirkan seperti mencari cara agar user tidak ambigu saat mengakses suatu web dan juga web tersebut punya tujuan jelas tentang web tersebut.
+3. UI dan UX adalah aspek penting sebelum membuat web dan saling terhubung.
