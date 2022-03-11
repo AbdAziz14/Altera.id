@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0;
+}
+
+.content {
+    padding: 50px;
+    flex: 33%;
+}
+
+#red {
+    background-color: red;
+}
+
+#green {
+    background-color: green;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#purple {
+    background-color: purple;
+}
+
+#grey {
+    background-color: grey;
+}
+
+@media screen and (min-width: 960px){
+    .content {
+        flex: 33%;
+    }
+}
+
+@media screen and (min-width: 600px) and (max-width: 959px) {
+    .content {
+        flex: 50%;
+    }
+}
+
+@media screen and (max-width: 599px) {
+    .content {
+        flex: 100%;
+    }
+}

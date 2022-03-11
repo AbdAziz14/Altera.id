@@ -1,0 +1,1 @@
+console.log("hallo Word in Terminal")
